@@ -3,7 +3,7 @@ import java.text.DecimalFormat
 
 fun main(args: Array<String>) {
 
-    val result = listOfCharA(list = listOf('a', 'a', 'c'))
+    val result = listOfCharA(list = listOf('a', 'b', 'b'))
     println(result)
 
 }
